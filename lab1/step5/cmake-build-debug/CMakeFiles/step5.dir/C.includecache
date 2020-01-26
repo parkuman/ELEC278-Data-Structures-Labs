@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Parker/Documents/Queens/! Year 2/ELEC 278/lab1/step5/llist1.h
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/Parker/Documents/Queens/! Year 2/ELEC 278/lab1/step5/main.c
+stdio.h
+-
+llist1.h
+C:/Users/Parker/Documents/Queens/! Year 2/ELEC 278/lab1/step5/llist1.h
+
